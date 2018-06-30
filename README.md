@@ -14,14 +14,16 @@ Summary: Multithreading stubs for X.org client libraries.
 Current build status
 ====================
 
-Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-OSX: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+![Linux disabled](https://img.shields.io/badge/linux-disabled-lightgrey.svg)
+![OSX disabled](https://img.shields.io/badge/OSX-disabled-lightgrey.svg)
+![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/xorg-libpthread-stubs/badges/version.svg)](https://anaconda.org/conda-forge/xorg-libpthread-stubs)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/xorg-libpthread-stubs/badges/downloads.svg)](https://anaconda.org/conda-forge/xorg-libpthread-stubs)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-xorg--libpthread--stubs-green.svg)](https://anaconda.org/conda-forge/xorg-libpthread-stubs) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xorg-libpthread-stubs.svg)](https://anaconda.org/conda-forge/xorg-libpthread-stubs) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/xorg-libpthread-stubs.svg)](https://anaconda.org/conda-forge/xorg-libpthread-stubs) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/xorg-libpthread-stubs.svg)](https://anaconda.org/conda-forge/xorg-libpthread-stubs) |
 
 Installing xorg-libpthread-stubs
 ================================
